@@ -30,3 +30,6 @@ runs/
 object-Detection-1/train/
 object-Detection-1/test/
 object-Detection-1/valid/
+
+.txt
+.yaml
