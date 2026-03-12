@@ -26,10 +26,6 @@ runs/
 # Logs
 *.log
 
-# YOLO dataset
-object-Detection-1/
-
-
 # Ignore YOLO dataset images
 object-Detection-1/train/
 object-Detection-1/test/
