@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Conda/Python environments
+env/
+venv/
+*.conda
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset and downloads
+dataset/
+downloads/
+
+# YOLO runs
+runs/
+*.pt
+
+# Logs
+*.log
+
+# YOLO dataset
+object-Detection-1/
+
+
+# Ignore YOLO dataset images
+object-Detection-1/train/
+object-Detection-1/test/
+object-Detection-1/valid/
